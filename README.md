@@ -6,7 +6,7 @@
 
 **Professor:** Ricardo Pereira
 
-**Comentários:** 
+**Comentários:** Na minha opinião, o professor consegue desenvolver o aprendizado dos alunos de ótima forma, eu consegui aprender muito mais na disciplinas de git em relação as outras, acredito que venho aprendendo tudo nas aulas😎👍.
 
 conhecimentos:
 
