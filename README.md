@@ -1,4 +1,4 @@
-# Comandos de git
+# Documentação de git
 
 **nome:** Murilo Martins Rosa Flores
 
