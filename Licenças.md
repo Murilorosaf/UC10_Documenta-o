@@ -31,3 +31,8 @@ Neste arquivo estarei falando sobre as licenças do GitHub.
    - **Explicação:** O GitHub é um serviço de hospedagem de código-fonte que oferece uma variedade de ferramentas e               serviços. As diferentes partes do GitHub podem ter diferentes licenças.
      O GitHub oferece serviços gratuitos para projetos de código aberto,
      mas também oferece serviços pagos para projetos privados.
+
+     Quanto a escolha da licença depende das intenções do desenvolvedor em relação ao seu código.
+     Licenças mais permissivas,como MIT e Apache 2.0,favorecem a reutilização do código em uma variedade de contextos, 
+     enquanto licenças mais restritivas,como a GPL, garantem uma maior continuidade do modelo de código aberto,
+     exigindo que as modificações também sejam compartilhadas de volta com a comunidade.
