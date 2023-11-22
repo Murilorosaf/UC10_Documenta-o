@@ -21,8 +21,8 @@ Neste arquivo estarei falando sobre as licenças do GitHub.
 
 
 4. **GitLab:**
-   - **Licença:** MIT
-   - **Explicação:** O GitLab, uma plataforma de gerenciamento de ciclo de vida DevOps baseada em Git, é licenciado sob a         MIT License. Essa licença é permissiva e permite a livre utilização do software,
+   * **Licença:** MIT
+   * **Explicação:** O GitLab, uma plataforma de gerenciamento de ciclo de vida DevOps baseada em Git, é licenciado sob a         MIT License. Essa licença é permissiva e permite a livre utilização do software,
      inclusive em projetos proprietários.
 
 
