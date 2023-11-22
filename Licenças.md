@@ -5,26 +5,29 @@ Neste arquivo estarei falando sobre as licenças do GitHub.
 
 1. **Git (o próprio Git):**
    - **Licença:** GNU General Public License, versão 2.0 (GPL-2.0)
-   - **Explicação:** A GPL-2.0 é uma licença de software livre que permite aos usuários executar, estudar, modificar e distribuir o software. No entanto, quaisquer modificações feitas no Git também devem ser distribuídas sob a GPL-2.0.
+   - **Explicação:** A GPL-2.0 é uma licença de software livre que permite aos usuários executar, estudar, modificar e             distribuir o software. No entanto, quaisquer modificações feitas no Git também
+      devem ser distribuídas sob a GPL-2.0.
 
 
 2. **JGit:**
    - **Licença:** Eclipse Public License, versão 1.0 (EPL-1.0)
-   - **Explicação:** A EPL-1.0 é uma licença de código aberto que permite aos usuários usar, modificar e distribuir o software. Ela é amigável para projetos incorporarem código com outras licenças (inclusive licenças proprietárias) em seus projetos.
+   - **Explicação:** A EPL-1.0 é uma licença de código aberto que permite aos usuários usar, modificar e distribuir o             software. Ela é amigável para projetos incorporarem código com outras licenças
+     (inclusive licenças proprietárias) em seus projetos.
 
 
 3. **libgit2:**
    - **Licença:** GPL-2.0 ou GPL-3.0
-   - **Explicação:** A libgit2, uma biblioteca C para implementar operações Git, é distribuída sob a GPL-2.0 ou GPL-3.0, permitindo que os usuários usem, modifiquem e distribuam o software de acordo com os termos dessas licenças.
+   - **Explicação:** A libgit2, uma biblioteca C para implementar operações Git, é distribuída sob a GPL-2.0 ou GPL-3.0,          permitindo que os usuários usem, modifiquem e distribuam o software de acordo com os termos dessas licenças.
 
 
 4. **GitLab:**
    - **Licença:** MIT
-   - **Explicação:** O GitLab, uma plataforma de gerenciamento de ciclo de vida DevOps baseada em Git, é licenciado sob a MIT License. Essa licença é permissiva e permite a livre utilização do software, inclusive em projetos proprietários.
+   - **Explicação:** O GitLab, uma plataforma de gerenciamento de ciclo de vida DevOps baseada em Git, é licenciado sob a         MIT License. Essa licença é permissiva e permite a livre utilização do software,
+     inclusive em projetos proprietários.
 
 
 5. **GitHub:**
    - **Licença:** Várias
-   - **Explicação:** O GitHub é um serviço de hospedagem de código-fonte que oferece uma variedade de ferramentas e serviços. As diferentes partes do GitHub podem ter diferentes licenças. O GitHub oferece serviços gratuitos para projetos de código aberto, mas também oferece serviços pagos para projetos privados.
-
-Lembre-se de verificar as licenças específicas associadas a cada componente ou ferramenta do ecossistema Git, pois podem haver variações e atualizações nas licenças ao longo do tempo. É sempre importante compreender os termos das licenças ao usar ou contribuir para projetos de software.
+   - **Explicação:** O GitHub é um serviço de hospedagem de código-fonte que oferece uma variedade de ferramentas e               serviços. As diferentes partes do GitHub podem ter diferentes licenças.
+     O GitHub oferece serviços gratuitos para projetos de código aberto,
+     mas também oferece serviços pagos para projetos privados.
