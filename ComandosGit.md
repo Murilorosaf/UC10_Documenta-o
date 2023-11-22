@@ -1,6 +1,6 @@
 # Comandos do git
 
-neste arquivo iremos falar sobre cada um dos comandos vistos em nossas aulas!
+Neste arquivo iremos falar sobre cada um dos comandos vistos em nossas aulas!
 
 * Git init  
 
@@ -46,14 +46,8 @@ atualizar o repositório local assim que ele for baixado.
 
 `git pull`
 
-*Git checkout
+* Git checkout
 
 O checkout tem a função de criar uma nova branch.
 
 `git checkout`
-
-
-
-
-pull, checkout
-
